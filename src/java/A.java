@@ -6,6 +6,7 @@ public class A {
 		System.out.println("234");
 		System.out.println("welcome");
 		System.out.println("added");
+		System.out.println("teft");
 		
 	}
 
